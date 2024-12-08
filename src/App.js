@@ -1,8 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import { GlobalStyles } from './styles/GlobalStyles';
 import Navbar from './components/Navbar';
 import theme from './styles/Theme'
+import Hero from './components/Hero/index';
+import Skills from './components/Skills';
 
 
 function App() {
@@ -10,12 +12,10 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <GlobalStyles />
-      <div className="background">
-        <div className="stars"></div>
-        <div className="stars2"></div>
-        <div className="stars3"></div>
-      </div>
+     
     <Navbar/>
+    <Hero/>
+    <Skills/>
     </ThemeProvider>
   );
 }

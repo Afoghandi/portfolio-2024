@@ -70,13 +70,20 @@ export const Menu = styled.div`
 
 export const MenuItem = styled.a`
   text-decoration: none;
-  color: ${({ theme }) => theme.colors.textColor};
+   color: ${({ scrolled, theme }) =>
+    scrolled ? theme.colors.primaryText : theme.colors.accent};
   font-size: 1.2rem;
   cursor: pointer;
-  transition: color 0.3s;
+  transition: color 0.3s, transform 0.2s;
 
   &:hover {
-    color: ${({ theme }) => theme.colors.accent};
+     color: ${({ theme }) => theme.colors.highlight || '#fff'}; 
+      transform: scale(1.1);
+  }
+
+   &.active {
+    color: ${({ theme }) => theme.colors.highlight || '#007BFF'};
+    font-weight: bold;
   }
 `;
 

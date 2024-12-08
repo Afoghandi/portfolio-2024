@@ -20,6 +20,7 @@ const Navbar = () => {
   return (
     <>
          <NavbarContainer scrolled={scrolled}>
+          
         <h1>My Portfolio</h1>
         <Hamburger isMenuOpen={isMenuOpen} onClick={toggleMenu}>
           <div />
