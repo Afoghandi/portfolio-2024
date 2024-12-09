@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import theme from './styles/Theme'
 import Hero from './components/Hero/index';
 import Skills from './components/Skills';
+import Projects from './components/Projects';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Skills/>
+    <Projects/>
     </ThemeProvider>
   );
 }

@@ -82,7 +82,7 @@ export const MenuItem = styled.a`
   }
 
    &.active {
-    color: ${({ theme }) => theme.colors.highlight || '#007BFF'};
+    color: ${({ theme }) => theme.colors.highlight || '#4F7886'};
     font-weight: bold;
   }
 `;

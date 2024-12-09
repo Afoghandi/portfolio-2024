@@ -16,16 +16,52 @@ export default skills;
 
 export const projects = [
   {
+    id: 1,
     title: 'Portfolio Website',
-    description: 'A modern personal portfolio website.',
-    live: 'https://portfolio.com',
-    source: 'https://github.com/user/portfolio',
+    image: 'https://via.placeholder.com/300', // Placeholder image
+    synopsis: 'A sleek portfolio showcasing projects and skills with React and Styled Components.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/portfolio',
   },
   {
-    title: 'E-Commerce App',
-    description: 'A full-stack e-commerce platform.',
-    live: 'https://ecommerce.com',
-    source: 'https://github.com/user/ecommerce',
+    id: 2,
+    title: 'E-commerce App',
+    image: 'https://via.placeholder.com/300',
+    synopsis: 'A full-stack MERN e-commerce application with authentication and payment integration.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/ecommerce',
+  },
+  {
+    id: 3,
+    title: 'Blog Platform',
+    image: 'https://via.placeholder.com/300',
+    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/blog-platform',
+  },
+  {
+    id: 4,
+    title: 'Netflix',
+    image: 'https://via.placeholder.com/300',
+    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/blog-platform',
+  },
+  {
+    id: 5,
+    title: 'Netflix',
+    image: 'https://via.placeholder.com/300',
+    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/blog-platform',
+  },
+  {
+    id: 6,
+    title: 'Netflix',
+    image: 'https://via.placeholder.com/300',
+    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
+    liveDemo: 'https://example.com',
+    github: 'https://github.com/example/blog-platform',
   },
 ];
 
