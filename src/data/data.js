@@ -65,7 +65,26 @@ export const projects = [
   },
 ];
 
-export const experience = [
-  { year: '2022', description: 'Worked on multiple React projects.' },
-  { year: '2021', description: 'Built backend APIs with Node.js.' },
+export const experienceData = [
+  {
+    id: 1,
+    title: 'Software Developer',
+    company: 'TechCorp',
+    duration: 'Jan 2020 - Dec 2022',
+    description: 'Developed and maintained web applications using React, Node.js, and MongoDB.',
+  },
+  {
+    id: 2,
+    title: 'Junior Developer',
+    company: 'CodeFactory',
+    duration: 'Jun 2018 - Dec 2019',
+    description: 'Assisted in building scalable backend systems with Express and SQL databases.',
+  },
+  {
+    id: 3,
+    title: 'Intern',
+    company: 'Startup Hub',
+    duration: 'Jan 2018 - May 2018',
+    description: 'Collaborated with senior developers on designing user-friendly interfaces.',
+  },
 ];
