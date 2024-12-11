@@ -1,3 +1,5 @@
+import React from 'react';
+import {FaInstagram, FaLinkedin, FaFacebook} from 'react-icons/fa'
 // skillsData.js
 const skills = [
   { name: 'C#', iconClass: 'devicon-csharp-plain' },
@@ -86,5 +88,24 @@ export const experienceData = [
     company: 'Startup Hub',
     duration: 'Jan 2018 - May 2018',
     description: 'Collaborated with senior developers on designing user-friendly interfaces.',
+  },
+];
+
+
+export const footerLinks = [
+  {
+    name: 'Instagram',
+    href: 'https://www.instagram.com',
+    icon: <FaInstagram />,
+  },
+  {
+    name: 'LinkedIn',
+    href: 'https://www.linkedin.com',
+    icon: <FaLinkedin />,
+  },
+  {
+    name: 'Facebook',
+    href: 'https://www.facebook.com',
+    icon: <FaFacebook />,
   },
 ];

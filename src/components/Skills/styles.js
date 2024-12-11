@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const SkillsSection = styled.section`
   padding: 4rem 2rem;
    position: relative;
+  
   z-index: 1;
   background: #f7f8fc;
   color: ${({ theme }) => theme.colors.textColor};

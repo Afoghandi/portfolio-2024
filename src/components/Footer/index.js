@@ -1,29 +1,25 @@
-import React from "react";
-import {FooterWrapper, FooterContent, Logo, SocialLinks, FooterText} from'./styles';
-import {FaGithub, FaLinkedin, FaTwitter} from 'react-icons/fa';
-
-
+import React from 'react';
+import { FooterWrapper, SocialIcons, IconLink } from './styles';
+import {footerLinks} from '../../data/data'
 
 const Footer = () => {
-    return (
-      <FooterWrapper>
-        <FooterContent>
-          <Logo>Ralphael Oshun</Logo>
-          <SocialLinks>
-            <a href="https://github.com/ralphaeloshun" target="_blank" rel="noreferrer">
-              <FaGithub size={24} />
-            </a>
-            <a href="https://linkedin.com/in/ralphaeloshun" target="_blank" rel="noreferrer">
-              <FaLinkedin size={24} />
-            </a>
-            <a href="https://twitter.com/ralphaeloshun" target="_blank" rel="noreferrer">
-              <FaTwitter size={24} />
-            </a>
-          </SocialLinks>
-          <FooterText>© {new Date().getFullYear()} Ralphael Oshun. All rights reserved.</FooterText>
-        </FooterContent>
-      </FooterWrapper>
-    );
-  };
-  
-  export default Footer;
+  return (
+    <FooterWrapper>
+      <p>© {new Date().getFullYear()} Your Name. All Rights Reserved.</p>
+      <SocialIcons>
+        {footerLinks.map((link) => (
+          <IconLink
+            key={link.name}
+            href={link.href}
+            target="_blank"
+            aria-label={link.name}
+          >
+            {link.icon}
+          </IconLink>
+        ))}
+      </SocialIcons>
+    </FooterWrapper>
+  );
+};
+
+export default Footer;

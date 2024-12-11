@@ -1,16 +1,6 @@
-import styled, { keyframes } from 'styled-components';
+import styled from 'styled-components';
 
-// Grow animation for when the item appears
-const grow = keyframes`
-  from {
-    transform: scale(0.8);
-    opacity: 0;
-  }
-  to {
-    transform: scale(1);
-    opacity: 1;
-  }
-`;
+
 
 export const ExperienceSection = styled.section`
   padding: 4rem 2rem;
@@ -21,7 +11,7 @@ export const ExperienceSection = styled.section`
   h2 {
     font-size: 2.5rem;
     margin-bottom: 2rem;
-    color: ${({ theme }) => theme.colors.primaryText || '#333'};
+    color: ${({ theme }) => theme.colors.accent || '#333'};
   }
 `;
 
