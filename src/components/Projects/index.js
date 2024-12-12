@@ -12,7 +12,7 @@ import {
 
 const Projects = () => {
   return (
-    <ProjectsSection>
+    <ProjectsSection id="projects" >
       <h2>My Projects</h2>
       <ProjectGrid>
         {projects.map((project) => (

@@ -1,5 +1,8 @@
 import React from 'react';
 import {FaInstagram, FaLinkedin, FaFacebook} from 'react-icons/fa'
+import Kitchen from '../assets/Gerich.png'
+import Royal from '../assets/Royal.png'
+import Joker from '../assets/joker.jpg'
 // skillsData.js
 const skills = [
   { name: 'C#', iconClass: 'devicon-csharp-plain' },
@@ -19,27 +22,27 @@ export default skills;
 export const projects = [
   {
     id: 1,
-    title: 'Portfolio Website',
-    image: 'https://via.placeholder.com/300', // Placeholder image
-    synopsis: 'A sleek portfolio showcasing projects and skills with React and Styled Components.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/portfolio',
+    title: 'Gerich Kitchens',
+    image:Kitchen,
+    synopsis: 'A sleek portfolio showcasing projects and skills with React and CSS.',
+    liveDemo: 'https://afoghandi.github.io/gerich/',
+    github: 'https://github.com/Afoghandi/gerich',
   },
   {
     id: 2,
-    title: 'E-commerce App',
-    image: 'https://via.placeholder.com/300',
-    synopsis: 'A full-stack MERN e-commerce application with authentication and payment integration.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/ecommerce',
+    title: 'Cowch',
+    image: Joker,
+    synopsis: 'A full-stack MERN project inspired by Netflix with login, Registration and password authentication. Connect to the IMDB API and watch the movie trailers ',
+    liveDemo: 'https://afoghandi.github.io/cowch/',
+    github: 'https://github.com/Afoghandi/cowch',
   },
   {
     id: 3,
     title: 'Blog Platform',
-    image: 'https://via.placeholder.com/300',
-    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/blog-platform',
+    image: Royal,
+    synopsis: 'A static page using modern design that never fails to catch attention',
+    liveDemo: 'https://royal-tosh.vercel.app/',
+    github: 'https://github.com/Afoghandi/RoyalTosh',
   },
   {
     id: 4,

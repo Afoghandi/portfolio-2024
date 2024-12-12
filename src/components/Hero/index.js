@@ -16,7 +16,7 @@ import MyProfile from '../../assets/MyProfile.png';
 const Hero = () => {
   return (
     
-    <HeroSection>
+    <HeroSection id ="hero" >
       
        
       <Stars/>
@@ -39,8 +39,8 @@ const Hero = () => {
         </TypingEffect>
        
       <ButtonContainer>
-        <HeroButton href="#projects">Hire Me</HeroButton>
-        <HeroButton href="#contact">View Portfolio</HeroButton>
+        <HeroButton href="#contact">Hire Me</HeroButton>
+        <HeroButton href="#projects">View Portfolio</HeroButton>
       </ButtonContainer>
 
         </TextContent>

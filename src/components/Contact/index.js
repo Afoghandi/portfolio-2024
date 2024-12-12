@@ -54,7 +54,7 @@ const Contact = () => {
   };
 
   return (
-    <ContactSection background ={EarthBG} >
+    <ContactSection background ={EarthBG} id="contact" >
       <ContactWrapper>
         <FormContainer>
           <Form onSubmit={handleSubmit}>
@@ -67,7 +67,11 @@ const Contact = () => {
         </FormContainer>
         <SummaryContainer>
           <h2>Get in touch</h2>
-          <p>Get in touch about a project or collaboration...</p>
+          <h4>   Whether you want to get in touch, talk about a project
+                          collaboration, or just say hi, I'd love to hear from
+                          you.
+                          <br />
+                          Simply fill the from and send me an email.</h4>
         </SummaryContainer>
       </ContactWrapper>
     </ContactSection>

@@ -58,7 +58,7 @@ export const TextContent = styled.div`
     }
 
     span {
-      color: #ffc107;
+     color: ${({ theme }) => theme.colors.logo};
     }
   }
 `;

@@ -18,6 +18,20 @@ background: ${({ scrolled }) =>
     scrolled ? '0 2px 4px rgba(0, 0, 0, 0.2)' : 'none'};
 `;
 
+export const Logo = styled.a`
+  text-decoration: none;
+  color: ${({ scrolled, theme }) =>
+    scrolled ? theme.colors.primaryText : theme.colors.logo};
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s;
+
+  &:hover {
+    color: ${({ theme }) => theme.colors.highlight || '#fff'};
+  }
+`;
+
 export const Hamburger = styled.div`
   display: none;
   flex-direction: column;
@@ -81,9 +95,10 @@ export const MenuItem = styled.a`
       transform: scale(1.1);
   }
 
-   &.active {
-    color: ${({ theme }) => theme.colors.highlight || '#4F7886'};
+    &.active {
+    color: ${({ theme }) => theme.colors.logo || '#4F7886'}; // Highlight active link
     font-weight: bold;
+    text-decoration: underline;
   }
 `;
 

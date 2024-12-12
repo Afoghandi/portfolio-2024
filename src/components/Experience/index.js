@@ -34,7 +34,7 @@ const Experience = () => {
           };
         }, []);
   return (
-    <ExperienceSection>
+    <ExperienceSection id ="experience" >
       <h2>Experience</h2>
       <Timeline>
         {experienceData.map((exp, index) => (

@@ -3,6 +3,7 @@ const theme = {
     primaryBackground: '#1b2735',
     textColor: '#333',
     primaryText: '#333',
+    logo: '#ffc107',
     accent: '#4F7886',
     gradientBackground: 'linear-gradient(135deg, #007BFF, #6A5ACD)', 
     primaryGradient: 'rgba(0, 0, 0, 0.9)',

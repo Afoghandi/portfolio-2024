@@ -105,7 +105,7 @@ export const SummaryContainer = styled.div`
     color: ${({ theme }) => theme.colors.accent || '#333'};
   }
 
-  p {
+  h4 {
     font-size: 1rem;
     color: ${({ theme }) => theme.colors.textColor || '#666'};
   }

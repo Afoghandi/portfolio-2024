@@ -7,6 +7,7 @@ export const ExperienceSection = styled.section`
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
+  scroll-margin-top: 80px;
 
   h2 {
     font-size: 2.5rem;

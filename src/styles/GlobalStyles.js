@@ -7,7 +7,9 @@ export const GlobalStyles = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
-
+  html {
+    scroll-behavior: smooth;
+  }
   body {
     font-family: 'Arial', sans-serif;
      background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
