@@ -5,7 +5,7 @@ import {footerLinks} from '../../data/data'
 const Footer = () => {
   return (
     <FooterWrapper>
-      <p>© {new Date().getFullYear()} Your Name. All Rights Reserved.</p>
+      <p>© {new Date().getFullYear()} Ralphael Oshun. All Rights Reserved.</p>
       <SocialIcons>
         {footerLinks.map((link) => (
           <IconLink
