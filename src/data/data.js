@@ -98,17 +98,13 @@ export const experienceData = [
 export const footerLinks = [
   {
     name: 'Instagram',
-    href: 'https://www.instagram.com',
+    href: 'https://www.instagram.com/four__meta/profilecard/?igsh=MWw3ZzRjOHZjamR4eg==',
     icon: <FaInstagram />,
   },
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com',
+    href: 'https://www.linkedin.com/in/afo-omo-oshun-01b401140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     icon: <FaLinkedin />,
   },
-  {
-    name: 'Facebook',
-    href: 'https://www.facebook.com',
-    icon: <FaFacebook />,
-  },
+  
 ];
