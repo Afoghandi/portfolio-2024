@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/portfolio-2024/static/js/main.f6b3d0a2.chunk.js",
+    "main.js.map": "/portfolio-2024/static/js/main.f6b3d0a2.chunk.js.map",
+    "runtime-main.js": "/portfolio-2024/static/js/runtime-main.07ee742a.js",
+    "runtime-main.js.map": "/portfolio-2024/static/js/runtime-main.07ee742a.js.map",
+    "static/js/2.daab4391.chunk.js": "/portfolio-2024/static/js/2.daab4391.chunk.js",
+    "static/js/2.daab4391.chunk.js.map": "/portfolio-2024/static/js/2.daab4391.chunk.js.map",
+    "index.html": "/portfolio-2024/index.html",
+    "precache-manifest.9f306c33a42644fed94c32cc7b8ca001.js": "/portfolio-2024/precache-manifest.9f306c33a42644fed94c32cc7b8ca001.js",
+    "service-worker.js": "/portfolio-2024/service-worker.js",
+    "static/js/2.daab4391.chunk.js.LICENSE.txt": "/portfolio-2024/static/js/2.daab4391.chunk.js.LICENSE.txt",
+    "static/media/Gerich.png": "/portfolio-2024/static/media/Gerich.f51d9759.png",
+    "static/media/MyProfile.png": "/portfolio-2024/static/media/MyProfile.9bffd650.png",
+    "static/media/Royal.png": "/portfolio-2024/static/media/Royal.3c84ae26.png",
+    "static/media/earth.jpg": "/portfolio-2024/static/media/earth.67af05e1.jpg",
+    "static/media/joker.jpg": "/portfolio-2024/static/media/joker.7fd06357.jpg",
+    "static/media/robot.png": "/portfolio-2024/static/media/robot.e2ce37d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ee742a.js",
+    "static/js/2.daab4391.chunk.js",
+    "static/js/main.f6b3d0a2.chunk.js"
+  ]
+}
