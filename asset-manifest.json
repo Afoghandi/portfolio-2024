@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolio-2024/static/js/main.e52c2ae3.chunk.js",
-    "main.js.map": "/portfolio-2024/static/js/main.e52c2ae3.chunk.js.map",
+    "main.js": "/portfolio-2024/static/js/main.fdf6ff17.chunk.js",
+    "main.js.map": "/portfolio-2024/static/js/main.fdf6ff17.chunk.js.map",
     "runtime-main.js": "/portfolio-2024/static/js/runtime-main.07ee742a.js",
     "runtime-main.js.map": "/portfolio-2024/static/js/runtime-main.07ee742a.js.map",
     "static/js/2.daab4391.chunk.js": "/portfolio-2024/static/js/2.daab4391.chunk.js",
     "static/js/2.daab4391.chunk.js.map": "/portfolio-2024/static/js/2.daab4391.chunk.js.map",
     "index.html": "/portfolio-2024/index.html",
-    "precache-manifest.1d90ed91db3ae9cc69a65dea65d8ee19.js": "/portfolio-2024/precache-manifest.1d90ed91db3ae9cc69a65dea65d8ee19.js",
+    "precache-manifest.09f2bb5106fe44b98358a57bbe4d3c5b.js": "/portfolio-2024/precache-manifest.09f2bb5106fe44b98358a57bbe4d3c5b.js",
     "service-worker.js": "/portfolio-2024/service-worker.js",
     "static/js/2.daab4391.chunk.js.LICENSE.txt": "/portfolio-2024/static/js/2.daab4391.chunk.js.LICENSE.txt",
     "static/media/Gerich.png": "/portfolio-2024/static/media/Gerich.f51d9759.png",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.07ee742a.js",
     "static/js/2.daab4391.chunk.js",
-    "static/js/main.e52c2ae3.chunk.js"
+    "static/js/main.fdf6ff17.chunk.js"
   ]
 }
