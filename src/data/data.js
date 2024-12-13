@@ -23,20 +23,21 @@ export default skills;
 export const projects = [
   {
     id: 1,
-    title: 'Gerich Kitchens',
-    image:Kitchen,
-    synopsis: 'A sleek portfolio showcasing projects and skills with React and CSS.',
-    liveDemo: 'https://afoghandi.github.io/gerich/',
-    github: 'https://github.com/Afoghandi/gerich',
-  },
-  {
-    id: 2,
     title: 'Cowch',
     image: Joker,
     synopsis: 'A full-stack MERN project inspired by Netflix with login, Registration and password authentication. Connect to the IMDB API and watch the movie trailers ',
     liveDemo: 'https://afoghandi.github.io/cowch/',
     github: 'https://github.com/Afoghandi/cowch',
   },
+  {
+    id: 2,
+    title: 'Gerich Kitchens',
+    image:Kitchen,
+    synopsis: 'A sleek portfolio showcasing projects and skills with React and CSS.',
+    liveDemo: 'https://afoghandi.github.io/gerich/',
+    github: 'https://github.com/Afoghandi/gerich',
+  },
+
   {
     id: 3,
     title: 'Royal Tosh',
