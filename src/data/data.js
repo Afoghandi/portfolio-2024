@@ -3,6 +3,7 @@ import {FaInstagram, FaLinkedin, FaFacebook} from 'react-icons/fa'
 import Kitchen from '../assets/Gerich.png'
 import Royal from '../assets/Royal.png'
 import Joker from '../assets/joker.jpg'
+import Bank from '../assets/robot.png'
 // skillsData.js
 const skills = [
   { name: 'C#', iconClass: 'devicon-csharp-plain' },
@@ -38,59 +39,58 @@ export const projects = [
   },
   {
     id: 3,
-    title: 'Blog Platform',
+    title: 'Royal Tosh',
     image: Royal,
-    synopsis: 'A static page using modern design that never fails to catch attention',
+    synopsis: 'A static page using gradient that never fails to catch attention',
     liveDemo: 'https://royal-tosh.vercel.app/',
     github: 'https://github.com/Afoghandi/RoyalTosh',
   },
   {
     id: 4,
-    title: 'Netflix',
-    image: 'https://via.placeholder.com/300',
-    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/blog-platform',
-  },
-  {
-    id: 5,
-    title: 'Netflix',
-    image: 'https://via.placeholder.com/300',
-    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/blog-platform',
-  },
-  {
-    id: 6,
-    title: 'Netflix',
-    image: 'https://via.placeholder.com/300',
-    synopsis: 'A dynamic blog platform built with Node.js, Express, and MongoDB.',
-    liveDemo: 'https://example.com',
-    github: 'https://github.com/example/blog-platform',
-  },
+    title: 'Modern Bank',
+    image: Bank,
+    synopsis: 'A dynamic static web paged, designed using styled-component.',
+    liveDemo: 'modern-bank-rosy.vercel.app',
+    github: 'https://github.com/Afoghandi/ModernBank',
+  }
+ 
 ];
 
 export const experienceData = [
   {
     id: 1,
     title: 'Software Developer',
-    company: 'TechCorp',
-    duration: 'Jan 2020 - Dec 2022',
-    description: 'Developed and maintained web applications using React, Node.js, and MongoDB.',
+    company: 'Ageas Insurance',
+    duration: 'July 2020 - Present',
+    description: 'As an IT Developer at Ageas, I am responsible for designing, developing, and maintaining our comprehensive enterprise content management (ECM) OnBase system, OnBase, which is used to capture, manage, store, and retrieve documents while automating workflows and business processes. ',
   },
   {
     id: 2,
-    title: 'Junior Developer',
-    company: 'CodeFactory',
-    duration: 'Jun 2018 - Dec 2019',
-    description: 'Assisted in building scalable backend systems with Express and SQL databases.',
+    title: 'Learning and Development Officer',
+    company: 'Ageas Insurance',
+    duration: 'September 2016 - July 2020',
+    description: 'I was responsible for creating and delivering training programmes that were based around a blended approach to learning to ensure trainees receive an understanding of the core elements of their role and the fundamental believes of the company',
   },
   {
     id: 3,
-    title: 'Intern',
-    company: 'Startup Hub',
-    duration: 'Jan 2018 - May 2018',
-    description: 'Collaborated with senior developers on designing user-friendly interfaces.',
+    title: 'Motor Claims Technical Advisor',
+    company: 'Ageas Insurance',
+    duration: 'June 2014 - September 2016',
+    description: 'As a technical advisor, I served as a referral point for foreign claims, theft, credit hire and as a telematics expert, which enabled me to support, guide and offer solutions to others. I reviewed outstanding debts and negotiated with external clients to reach an amicable resolution, which involved collating and analysing data, analysing the behaviour patterns  and applying this knowledge to future cases. ',
+  },
+  {
+    id:4 ,
+    title: 'Customer Service Advisor',
+    company: 'Ageas Insurance',
+    duration: 'April 2012 - June 2014',
+    description: 'I worked within the Affinity Sales department where I dealt with high volumes of calls.  I was responsible for listening to clients and assisting them in finding a product that met their needs whilst ensuring they received an individualised pleasant experience.  ',
+  },
+  {
+    id:5 ,
+    title: 'Design Consultant',
+    company: 'Venture Photography',
+    duration: 'August 2011 - December 2011',
+    description: 'Venture was all about providing customers with a complete experience.  I was responsible for leading clients through their images and ensuring they had a positive experience whilst they choose their pictures.  My role included sales, digital image manipulation to meet the customers requirements and also ensuring images were ready for collection.  I was also responsible for phoning clients, arranging appointments and covering the Reception desk in the studio.  ',
   },
 ];
 

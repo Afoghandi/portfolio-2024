@@ -13,6 +13,7 @@ import {
 import MyProfile from '../../assets/MyProfile.png';
 
 
+
 const Hero = () => {
   return (
     
@@ -27,7 +28,7 @@ const Hero = () => {
         <h1>Hello,<span> I'm Ralphael</span></h1>
         <TypingEffect>
         <Typewriter
-              words={['Full Stack Developer', 'React Enthusiast', 'MERN Stack Expert', 'C# Expert', 'Concept Building', 'Thinker', 'Goals', 'Team Work']}
+              words={['Download My Resume','Code Architect','Full Stack Developer', 'Creative Problem Solver','Clean Code Advocate', 'Debugging Ninja','Innovative Thinker', 'Front End Wizard', 'Bank End Builder', 'Team Player Extraordinaire', 'Database Guru', 'API Connoisseur','Code Whisperer', 'Tech Evangelist','UI/UX Visionary','Software Alchemist','Always Learning']}
               loop={true}
               cursor={true}
               cursorStyle="|"
@@ -40,7 +41,7 @@ const Hero = () => {
        
       <ButtonContainer>
         <HeroButton href="#contact">Hire Me</HeroButton>
-        <HeroButton href="#projects">View Portfolio</HeroButton>
+        <HeroButton href="/IT developer.docx" download="IT developer.docx">Download Resume</HeroButton>
       </ButtonContainer>
 
         </TextContent>
