@@ -50,8 +50,8 @@ export const projects = [
     id: 4,
     title: 'Modern Bank',
     image: Bank,
-    synopsis: 'A dynamic static web paged, designed using styled-component.',
-    liveDemo: 'modern-bank-rosy.vercel.app',
+    synopsis: 'A dynamic static web paged, designed using Vercel.',
+    liveDemo: 'https://modern-bank-rosy.vercel.app/',
     github: 'https://github.com/Afoghandi/ModernBank',
   }
  
