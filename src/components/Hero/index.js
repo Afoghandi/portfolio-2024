@@ -41,7 +41,7 @@ const Hero = () => {
        
       <ButtonContainer>
         <HeroButton href="#contact">Hire Me</HeroButton>
-        <HeroButton href="/IT%20developer.docx" download="IT%20developer.docx">Download Resume</HeroButton>
+        <HeroButton href="https://www.dropbox.com/scl/fi/112sgwqjgfesjq894m8l7/ITDeveloper.docx?rlkey=bywrulpkxzer8zhggvcfvx41f&st=8l5jvx60&dl=1" download="ITDeveloper.docx">Download Resume</HeroButton>
       </ButtonContainer>
 
         </TextContent>
