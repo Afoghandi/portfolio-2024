@@ -4,6 +4,7 @@ import Kitchen from '../assets/Gerich.png'
 import Royal from '../assets/Royal.png'
 import Joker from '../assets/joker.jpg'
 import Bank from '../assets/robot.png'
+import WeatherApp from '../assets/WeatherForecast.png'
 // skillsData.js
 const skills = [
   { name: 'C#', iconClass: 'devicon-csharp-plain' },
@@ -21,6 +22,7 @@ const skills = [
 export default skills;
 
 export const projects = [
+  
   {
     id: 1,
     title: 'Cowch',
@@ -31,6 +33,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: 'Weather App',
+    image: WeatherApp,
+    synopsis: 'This project is a dynamic weather forecasting application built using ASP.NET Core MVC. It integrates with the OpenWeatherMap API to fetch current weather data and a 5-day forecast, and it dynamically adjusts the UI based on location and weather conditions. ',
+    liveDemo: 'https://weatherapp-emfo.onrender.com/Weather ',
+    github: 'https://github.com/Afoghandi/weatherApp',
+  },
+  {
+    id: 3,
     title: 'Gerich Kitchens',
     image:Kitchen,
     synopsis: 'A sleek portfolio showcasing projects and skills with React and CSS.',
@@ -39,7 +49,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: 'Royal Tosh',
     image: Royal,
     synopsis: 'A static page using gradient that never fails to catch attention',
@@ -47,7 +57,7 @@ export const projects = [
     github: 'https://github.com/Afoghandi/RoyalTosh',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Modern Bank',
     image: Bank,
     synopsis: 'A dynamic static web paged, designed using Vercel.',
