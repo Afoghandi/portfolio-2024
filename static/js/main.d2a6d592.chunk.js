@@ -1,4 +1,4 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],[,,,,,,,,,,,function(e,t,r){e.exports=r.p+"static/media/MyProfile.9bffd650.png"},function(e,t,r){e.exports=r.p+"static/media/Gerich.f51d9759.png"},function(e,t,r){e.exports=r.p+"static/media/Royal.3c84ae26.png"},function(e,t,r){e.exports=r.p+"static/media/joker.7fd06357.jpg"},function(e,t,r){e.exports=r.p+"static/media/robot.e2ce37d7.png"},function(e,t,r){e.exports=r.p+"static/media/earth.67af05e1.jpg"},,function(e,t,r){e.exports=r(28)},,,,,,,,,,function(e,t,r){"use strict";r.r(t);var n=r(0),a=r.n(n),o=r(7),i=r.n(o),l=r(1);const s=l.b`
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],[,,,,,,,,,,,function(e,t,r){e.exports=r.p+"static/media/MyProfile.9bffd650.png"},function(e,t,r){e.exports=r.p+"static/media/Gerich.f51d9759.png"},function(e,t,r){e.exports=r.p+"static/media/Royal.3c84ae26.png"},function(e,t,r){e.exports=r.p+"static/media/joker.7fd06357.jpg"},function(e,t,r){e.exports=r.p+"static/media/robot.e2ce37d7.png"},function(e,t,r){e.exports=r.p+"static/media/WeatherForecast.29754887.png"},function(e,t,r){e.exports=r.p+"static/media/earth.67af05e1.jpg"},,function(e,t,r){e.exports=r(29)},,,,,,,,,,function(e,t,r){"use strict";r.r(t);var n=r(0),a=r.n(n),o=r(7),i=r.n(o),l=r(1);const s=l.b`
   * {
     margin: 0;
     padding: 0;
@@ -256,7 +256,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     font-size: 0.9rem; /* Slightly smaller font for compact buttons */
     padding: 0.6rem 1.2rem;
   }
-`;var A=r(11),I=r.n(A);var M=()=>a.a.createElement(E,{id:"hero"},a.a.createElement(y,null),a.a.createElement(k,null,a.a.createElement($,{src:I.a,alt:"Your Profile"}),a.a.createElement(C,null,a.a.createElement("h1",null,"Hello,",a.a.createElement("span",null," I'm Ralphael")),a.a.createElement(z,null,a.a.createElement(x.Typewriter,{words:["Download My Resume","Code Architect","Full Stack Developer","Creative Problem Solver","Clean Code Advocate","Debugging Ninja","Innovative Thinker","Front End Wizard","Bank End Builder","Team Player Extraordinaire","Database Guru","API Connoisseur","Code Whisperer","Tech Evangelist","UI/UX Visionary","Software Alchemist","Always Learning"],loop:!0,cursor:!0,cursorStyle:"|",typeSpeed:50,deleteSpeed:30,delaySpeed:2e3})),a.a.createElement(S,null,a.a.createElement(j,{href:"#contact"},"Hire Me"),a.a.createElement(j,{href:"https://www.dropbox.com/scl/fi/112sgwqjgfesjq894m8l7/ITDeveloper.docx?rlkey=bywrulpkxzer8zhggvcfvx41f&st=8l5jvx60&dl=1",download:"ITDeveloper.docx"},"Download Resume"))))),O=r(4),B=r(12),D=r.n(B),T=r(13),R=r.n(T),Y=r(14),N=r.n(Y),P=r(15),F=r.n(P);var _=[{name:"C#",iconClass:"devicon-csharp-plain"},{name:"React",iconClass:"devicon-react-original"},{name:"Node.js",iconClass:"devicon-nodejs-plain"},{name:"Express",iconClass:"devicon-express-original"},{name:"SQL",iconClass:"devicon-mysql-plain"},{name:"MongoDB",iconClass:"devicon-mongodb-plain"},{name:"CSS",iconClass:"devicon-css3-plain"},{name:"Bootstrap",iconClass:"devicon-bootstrap-plain"},{name:"MUI",iconClass:"devicon-materialui-plain"},{name:"Java",iconClass:"devicon-java-plain"}];const L=[{id:1,title:"Cowch",image:N.a,synopsis:"A full-stack MERN project inspired by Netflix with login, Registration and password authentication. Connect to the IMDB API and watch the movie trailers ",liveDemo:"https://afoghandi.github.io/cowch/",github:"https://github.com/Afoghandi/cowch"},{id:2,title:"Gerich Kitchens",image:D.a,synopsis:"A sleek portfolio showcasing projects and skills with React and CSS.",liveDemo:"https://afoghandi.github.io/gerich/",github:"https://github.com/Afoghandi/gerich"},{id:3,title:"Royal Tosh",image:R.a,synopsis:"A static page using gradient that never fails to catch attention",liveDemo:"https://royal-tosh.vercel.app/",github:"https://github.com/Afoghandi/RoyalTosh"},{id:4,title:"Modern Bank",image:F.a,synopsis:"A dynamic static web paged, designed using Vercel.",liveDemo:"https://modern-bank-rosy.vercel.app/",github:"https://github.com/Afoghandi/ModernBank"}],q=[{id:1,title:"Software Developer",company:"Ageas Insurance",duration:"July 2020 - Present",description:"As an IT Developer at Ageas, I am responsible for designing, developing, and maintaining our comprehensive enterprise content management (ECM) OnBase system, OnBase, which is used to capture, manage, store, and retrieve documents while automating workflows and business processes. "},{id:2,title:"Learning and Development Officer",company:"Ageas Insurance",duration:"September 2016 - July 2020",description:"I was responsible for creating and delivering training programmes that were based around a blended approach to learning to ensure trainees receive an understanding of the core elements of their role and the fundamental believes of the company"},{id:3,title:"Motor Claims Technical Advisor",company:"Ageas Insurance",duration:"June 2014 - September 2016",description:"As a technical advisor, I served as a referral point for foreign claims, theft, credit hire and as a telematics expert, which enabled me to support, guide and offer solutions to others. I reviewed outstanding debts and negotiated with external clients to reach an amicable resolution, which involved collating and analysing data, analysing the behaviour patterns  and applying this knowledge to future cases. "},{id:4,title:"Customer Service Advisor",company:"Ageas Insurance",duration:"April 2012 - June 2014",description:"I worked within the Affinity Sales department where I dealt with high volumes of calls.  I was responsible for listening to clients and assisting them in finding a product that met their needs whilst ensuring they received an individualised pleasant experience.  "},{id:5,title:"Design Consultant",company:"Venture Photography",duration:"August 2011 - December 2011",description:"Venture was all about providing customers with a complete experience.  I was responsible for leading clients through their images and ensuring they had a positive experience whilst they choose their pictures.  My role included sales, digital image manipulation to meet the customers requirements and also ensuring images were ready for collection.  I was also responsible for phoning clients, arranging appointments and covering the Reception desk in the studio.  "}],J=[{name:"Instagram",href:"https://www.instagram.com/four__meta/profilecard/?igsh=MWw3ZzRjOHZjamR4eg==",icon:a.a.createElement(O.a,null)},{name:"LinkedIn",href:"https://www.linkedin.com/in/afo-omo-oshun-01b401140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",icon:a.a.createElement(O.b,null)}],G=l.c.section`
+`;var A=r(11),I=r.n(A);var M=()=>a.a.createElement(E,{id:"hero"},a.a.createElement(y,null),a.a.createElement(k,null,a.a.createElement($,{src:I.a,alt:"Your Profile"}),a.a.createElement(C,null,a.a.createElement("h1",null,"Hello,",a.a.createElement("span",null," I'm Ralphael")),a.a.createElement(z,null,a.a.createElement(x.Typewriter,{words:["Download My Resume","Code Architect","Full Stack Developer","Creative Problem Solver","Clean Code Advocate","Debugging Ninja","Innovative Thinker","Front End Wizard","Bank End Builder","Team Player Extraordinaire","Database Guru","API Connoisseur","Code Whisperer","Tech Evangelist","UI/UX Visionary","Software Alchemist","Always Learning"],loop:!0,cursor:!0,cursorStyle:"|",typeSpeed:50,deleteSpeed:30,delaySpeed:2e3})),a.a.createElement(S,null,a.a.createElement(j,{href:"#contact"},"Hire Me"),a.a.createElement(j,{href:"https://www.dropbox.com/scl/fi/112sgwqjgfesjq894m8l7/ITDeveloper.docx?rlkey=bywrulpkxzer8zhggvcfvx41f&st=8l5jvx60&dl=1",download:"ITDeveloper.docx"},"Download Resume"))))),O=r(4),D=r(12),T=r.n(D),B=r(13),R=r.n(B),Y=r(14),P=r.n(Y),N=r(15),F=r.n(N),_=r(16),L=r.n(_);var q=[{name:"C#",iconClass:"devicon-csharp-plain"},{name:"React",iconClass:"devicon-react-original"},{name:"Node.js",iconClass:"devicon-nodejs-plain"},{name:"Express",iconClass:"devicon-express-original"},{name:"SQL",iconClass:"devicon-mysql-plain"},{name:"MongoDB",iconClass:"devicon-mongodb-plain"},{name:"CSS",iconClass:"devicon-css3-plain"},{name:"Bootstrap",iconClass:"devicon-bootstrap-plain"},{name:"MUI",iconClass:"devicon-materialui-plain"},{name:"Java",iconClass:"devicon-java-plain"}];const J=[{id:1,title:"Cowch",image:P.a,synopsis:"A full-stack MERN project inspired by Netflix with login, Registration and password authentication. Connect to the IMDB API and watch the movie trailers ",liveDemo:"https://afoghandi.github.io/cowch/",github:"https://github.com/Afoghandi/cowch"},{id:2,title:"Weather App",image:L.a,synopsis:"This project is a dynamic weather forecasting application built using ASP.NET Core MVC. It integrates with the OpenWeatherMap API to fetch current weather data and a 5-day forecast, and it dynamically adjusts the UI based on location and weather conditions. ",liveDemo:"https://weatherapp-emfo.onrender.com/Weather ",github:"https://github.com/Afoghandi/weatherApp"},{id:3,title:"Gerich Kitchens",image:T.a,synopsis:"A sleek portfolio showcasing projects and skills with React and CSS.",liveDemo:"https://afoghandi.github.io/gerich/",github:"https://github.com/Afoghandi/gerich"},{id:4,title:"Royal Tosh",image:R.a,synopsis:"A static page using gradient that never fails to catch attention",liveDemo:"https://royal-tosh.vercel.app/",github:"https://github.com/Afoghandi/RoyalTosh"},{id:5,title:"Modern Bank",image:F.a,synopsis:"A dynamic static web paged, designed using Vercel.",liveDemo:"https://modern-bank-rosy.vercel.app/",github:"https://github.com/Afoghandi/ModernBank"}],W=[{id:1,title:"Software Developer",company:"Ageas Insurance",duration:"July 2020 - Present",description:"As an IT Developer at Ageas, I am responsible for designing, developing, and maintaining our comprehensive enterprise content management (ECM) OnBase system, OnBase, which is used to capture, manage, store, and retrieve documents while automating workflows and business processes. "},{id:2,title:"Learning and Development Officer",company:"Ageas Insurance",duration:"September 2016 - July 2020",description:"I was responsible for creating and delivering training programmes that were based around a blended approach to learning to ensure trainees receive an understanding of the core elements of their role and the fundamental believes of the company"},{id:3,title:"Motor Claims Technical Advisor",company:"Ageas Insurance",duration:"June 2014 - September 2016",description:"As a technical advisor, I served as a referral point for foreign claims, theft, credit hire and as a telematics expert, which enabled me to support, guide and offer solutions to others. I reviewed outstanding debts and negotiated with external clients to reach an amicable resolution, which involved collating and analysing data, analysing the behaviour patterns  and applying this knowledge to future cases. "},{id:4,title:"Customer Service Advisor",company:"Ageas Insurance",duration:"April 2012 - June 2014",description:"I worked within the Affinity Sales department where I dealt with high volumes of calls.  I was responsible for listening to clients and assisting them in finding a product that met their needs whilst ensuring they received an individualised pleasant experience.  "},{id:5,title:"Design Consultant",company:"Venture Photography",duration:"August 2011 - December 2011",description:"Venture was all about providing customers with a complete experience.  I was responsible for leading clients through their images and ensuring they had a positive experience whilst they choose their pictures.  My role included sales, digital image manipulation to meet the customers requirements and also ensuring images were ready for collection.  I was also responsible for phoning clients, arranging appointments and covering the Reception desk in the studio.  "}],G=[{name:"Instagram",href:"https://www.instagram.com/four__meta/profilecard/?igsh=MWw3ZzRjOHZjamR4eg==",icon:a.a.createElement(O.a,null)},{name:"LinkedIn",href:"https://www.linkedin.com/in/afo-omo-oshun-01b401140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",icon:a.a.createElement(O.b,null)}],H=l.c.section`
   padding: 4rem 2rem;
    position: relative;
   
@@ -274,26 +274,26 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
   @media (max-width: 768px) {
     padding: 2rem 1rem;
   }
-`,H=l.c.div`
+`,U=l.c.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 2rem;
   justify-items: center;
   align-items: center;
-`,U=l.c.div`
+`,V=l.c.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   gap: 0.5rem;
-`,V=l.c.div`
+`,Z=l.c.div`
   font-size: 3rem;
   color: ${e=>{let{theme:t}=e;return t.colors.accent}};
-`,W=l.c.p`
+`,K=l.c.p`
   font-size: 1.2rem;
   font-weight: bold;
   margin-top: 0.5rem;
-`;var Z=()=>a.a.createElement(G,null,a.a.createElement("h2",null,"My Skills"),a.a.createElement(H,null,_.map((e,t)=>a.a.createElement(U,{key:t},a.a.createElement(V,null,a.a.createElement("i",{className:e.iconClass})),a.a.createElement(W,null,e.name)))));const K=l.c.section`
+`;var Q=()=>a.a.createElement(H,null,a.a.createElement("h2",null,"My Skills"),a.a.createElement(U,null,q.map((e,t)=>a.a.createElement(V,{key:t},a.a.createElement(Z,null,a.a.createElement("i",{className:e.iconClass})),a.a.createElement(K,null,e.name)))));const X=l.c.section`
   padding: 4rem 2rem;
   max-width: 1200px; 
   margin: 0 auto;
@@ -306,13 +306,13 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     margin-bottom: 2rem;
     color: ${e=>{let{theme:t}=e;return t.colors.accent||"#333"}};
   }
-`,Q=l.c.div`
+`,ee=l.c.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
    max-width: 100%; 
  padding: 0rem 2rem;
-`,X=l.c.div`
+`,te=l.c.div`
   background: ${e=>{let{theme:t}=e;return t.colors.cardBackground||"#f7f8fc"}};
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
@@ -323,11 +323,11 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     transform: translateY(-10px) scale(1.02);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
   }
-`,ee=l.c.img`
+`,re=l.c.img`
   width: 100%;
   height: 180px;
   object-fit: cover;
-`,te=l.c.div`
+`,ne=l.c.div`
   padding: 1.5rem;
   text-align: left;
 
@@ -341,7 +341,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     font-size: 1rem;
     color: ${e=>{let{theme:t}=e;return t.colors.textColor}};
   }
-`,re=l.c.div`
+`,ae=l.c.div`
   display: flex;
   justify-content: space-between;
   margin-top: 1.5rem;
@@ -376,7 +376,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
       color: #fff;
     }
   }
-`;var ne=()=>a.a.createElement(K,{id:"projects"},a.a.createElement("h2",null,"My Projects"),a.a.createElement(Q,null,L.map(e=>a.a.createElement(X,{key:e.id},a.a.createElement(ee,{src:e.image,alt:e.title}),a.a.createElement(te,null,a.a.createElement("h3",null,e.title),a.a.createElement("p",null,e.synopsis),a.a.createElement(re,null,a.a.createElement("a",{href:e.liveDemo,target:"_blank",rel:"noopener noreferrer",className:"btn-live"},"Live Demo"),a.a.createElement("a",{href:e.github,target:"_blank",rel:"noopener noreferrer",className:"btn-github"},"GitHub")))))));const ae=l.c.section`
+`;var oe=()=>a.a.createElement(X,{id:"projects"},a.a.createElement("h2",null,"My Projects"),a.a.createElement(ee,null,J.map(e=>a.a.createElement(te,{key:e.id},a.a.createElement(re,{src:e.image,alt:e.title}),a.a.createElement(ne,null,a.a.createElement("h3",null,e.title),a.a.createElement("p",null,e.synopsis),a.a.createElement(ae,null,a.a.createElement("a",{href:e.liveDemo,target:"_blank",rel:"noopener noreferrer",className:"btn-live"},"Live Demo"),a.a.createElement("a",{href:e.github,target:"_blank",rel:"noopener noreferrer",className:"btn-github"},"GitHub")))))));const ie=l.c.section`
   padding: 4rem 2rem;
   max-width: 1200px;
   margin: 0 auto;
@@ -388,11 +388,11 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     margin-bottom: 2rem;
     color: ${e=>{let{theme:t}=e;return t.colors.accent||"#333"}};
   }
-`,oe=l.c.div`
+`,le=l.c.div`
   display: flex;
   flex-direction: column;
   position: relative;
-`,ie=l.c.div`
+`,se=l.c.div`
   display: flex;
   flex-direction: ${e=>{let{isLeft:t}=e;return t?"row":"row-reverse"}};
   margin: 2rem 0;
@@ -405,7 +405,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     opacity: 1; /* Fully visible */
     transform: translateY(0); /* Back to position */
   }
-`,le=l.c.div`
+`,ce=l.c.div`
   background: ${e=>{let{theme:t}=e;return t.colors.cardBackground||"#fff"}};
   border-radius: 10px;
   padding: 1.5rem;
@@ -430,7 +430,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     font-size: 1rem;
     color: ${e=>{let{theme:t}=e;return t.colors.textColor}};
   }
-`;var se=()=>{const e=Object(n.useRef)([]);return Object(n.useEffect)(()=>{const t=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&e.target.classList.add("visible")})},{threshold:.5});return e.current.forEach(e=>{e&&t.observe(e)}),()=>{e.current&&e.current.forEach(e=>t.unobserve(e))}},[]),a.a.createElement(ae,{id:"experience"},a.a.createElement("h2",null,"Experience"),a.a.createElement(oe,null,q.map((t,r)=>a.a.createElement(ie,{key:t.id,isLeft:r%2===0,ref:t=>e.current[r]=t},a.a.createElement(le,null,a.a.createElement("h3",null,t.title),a.a.createElement("span",null,t.company," | ",t.duration),a.a.createElement("p",null,t.description))))))};const ce=l.c.section`
+`;var me=()=>{const e=Object(n.useRef)([]);return Object(n.useEffect)(()=>{const t=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&e.target.classList.add("visible")})},{threshold:.5});return e.current.forEach(e=>{e&&t.observe(e)}),()=>{e.current&&e.current.forEach(e=>t.unobserve(e))}},[]),a.a.createElement(ie,{id:"experience"},a.a.createElement("h2",null,"Experience"),a.a.createElement(le,null,W.map((t,r)=>a.a.createElement(se,{key:t.id,isLeft:r%2===0,ref:t=>e.current[r]=t},a.a.createElement(ce,null,a.a.createElement("h3",null,t.title),a.a.createElement("span",null,t.company," | ",t.duration),a.a.createElement("p",null,t.description))))))};const de=l.c.section`
   position: relative;
   padding: 4rem 2rem;
   min-height: 100vh;
@@ -449,7 +449,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     background: rgba(70, 130, 180, 0.3); /* Hazy blue tint */
     z-index: 1;
   }
-`,me=l.c.div`
+`,pe=l.c.div`
   position: relative;
   background: ${e=>{let{theme:t}=e;return t.colors.cardBackground||"#fff"}};
   box-shadow: ${e=>{let{theme:t}=e;return t.shadows.buttonShadow}};
@@ -467,9 +467,9 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     flex-direction: column; /* Stack form and summary vertically */
     padding: 2rem;
   }
-`,de=l.c.div`
+`,he=l.c.div`
   flex: 1;
-`,pe=l.c.form`
+`,ue=l.c.form`
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -483,18 +483,18 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     border-radius: 5px;
     text-align: center;
   }
-`,he=l.c.input`
+`,fe=l.c.input`
   padding: 0.75rem;
   border: 1px solid ${e=>{let{theme:t}=e;return t.colors.accent||"#ccc"}};
   border-radius: 5px;
   font-size: 1rem;
-`,ue=l.c.textarea`
+`,ge=l.c.textarea`
   padding: 0.75rem;
   border: 1px solid ${e=>{let{theme:t}=e;return t.colors.accent||"#ccc"}};
   border-radius: 5px;
   font-size: 1rem;
   min-height: 120px;
-`,fe=l.c.button`
+`,xe=l.c.button`
   padding: 0.75rem 1.5rem;
   border-radius: 5px;
   background: ${e=>{let{theme:t}=e;return t.colors.gradientBackground}};
@@ -510,7 +510,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
   }
-`,ge=l.c.div`
+`,be=l.c.div`
   flex: 1;
   border-left: 2px solid ${e=>{let{theme:t}=e;return t.colors.accent||"#ccc"}};
   padding-left: 2rem;
@@ -532,7 +532,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     margin-top: 2rem; /* Adds spacing between form and summary on mobile */
     text-align: center;
   }
-`;var xe=r(16),be=r.n(xe);var we=()=>{const[e,t]=Object(n.useState)(!1),[r,o]=Object(n.useState)("");return a.a.createElement(ce,{background:be.a,id:"contact"},a.a.createElement(me,null,a.a.createElement(de,null,a.a.createElement(pe,{onSubmit:async e=>{e.preventDefault();try{(await fetch("https://formspree.io/f/ralphaeloshun@gmail.com",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:e.target.name.value,email:e.target.email.value,message:e.target.message.value})})).ok?(o("Thank you! Your message has been sent."),t(!0),e.target.reset(),setTimeout(()=>{t(!1)},5e3)):(o("Oops! Something went wrong. Please try again."),t(!0),setTimeout(()=>{t(!1)},5e3))}catch(r){o("Error: Unable to send message. Please try again."),t(!0),setTimeout(()=>{t(!1)},5e3)}}},a.a.createElement(he,{type:"text",name:"name",placeholder:"Your Name",required:!0}),a.a.createElement(he,{type:"email",name:"email",placeholder:"Your Email",required:!0}),a.a.createElement(ue,{name:"message",placeholder:"Your Message",required:!0}),a.a.createElement(fe,{type:"submit"},"Send Message"),e&&a.a.createElement("p",{className:"response-message"},r))),a.a.createElement(ge,null,a.a.createElement("h2",null,"Get in touch"),a.a.createElement("h4",null,"   Whether you want to get in touch, talk about a project collaboration, or just say hi, I'd love to hear from you.",a.a.createElement("br",null),"Simply fill the from and send me an email."))))};const ve=l.c.footer`
+`;var we=r(17),ve=r.n(we);var ye=()=>{const[e,t]=Object(n.useState)(!1),[r,o]=Object(n.useState)("");return a.a.createElement(de,{background:ve.a,id:"contact"},a.a.createElement(pe,null,a.a.createElement(he,null,a.a.createElement(ue,{onSubmit:async e=>{e.preventDefault();try{(await fetch("https://formspree.io/f/ralphaeloshun@gmail.com",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:e.target.name.value,email:e.target.email.value,message:e.target.message.value})})).ok?(o("Thank you! Your message has been sent."),t(!0),e.target.reset(),setTimeout(()=>{t(!1)},5e3)):(o("Oops! Something went wrong. Please try again."),t(!0),setTimeout(()=>{t(!1)},5e3))}catch(r){o("Error: Unable to send message. Please try again."),t(!0),setTimeout(()=>{t(!1)},5e3)}}},a.a.createElement(fe,{type:"text",name:"name",placeholder:"Your Name",required:!0}),a.a.createElement(fe,{type:"email",name:"email",placeholder:"Your Email",required:!0}),a.a.createElement(ge,{name:"message",placeholder:"Your Message",required:!0}),a.a.createElement(xe,{type:"submit"},"Send Message"),e&&a.a.createElement("p",{className:"response-message"},r))),a.a.createElement(be,null,a.a.createElement("h2",null,"Get in touch"),a.a.createElement("h4",null,"   Whether you want to get in touch, talk about a project collaboration, or just say hi, I'd love to hear from you.",a.a.createElement("br",null),"Simply fill the from and send me an email."))))};const Ee=l.c.footer`
   background: ${e=>{let{theme:t}=e;return t.colors.cardBackground||"#f0f0f0"}};
   color: ${e=>{let{theme:t}=e;return t.colors.textColor||"#333"}};
   text-align: center;
@@ -551,7 +551,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
     padding: 1.5rem;
     font-size: 0.8rem;
   }
-`,ye=l.c.div`
+`,ke=l.c.div`
   display: flex;
   justify-content: center;
   gap: 1.5rem;
@@ -560,7 +560,7 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
   @media (max-width: 768px) {
     gap: 1rem;
   }
-`,Ee=l.c.a`
+`,$e=l.c.a`
   color: ${e=>{let{theme:t}=e;return t.colors.accent||"#4F7886"}};
   font-size: 1.5rem;
   transition: transform 0.3s ease, color 0.3s ease;
@@ -573,5 +573,5 @@ background: ${e=>{let{scrolled:t}=e;return t?"rgba(0, 0, 0, 0.7)":"transparent"}
   i {
     font-size: 2rem;
   }
-`;var ke=()=>a.a.createElement(ve,null,a.a.createElement("p",null,"\xa9 ",(new Date).getFullYear()," Ralphael Oshun. All Rights Reserved."),a.a.createElement(ye,null,J.map(e=>a.a.createElement(Ee,{key:e.name,href:e.href,target:"_blank","aria-label":e.name},e.icon))));var $e=function(){return a.a.createElement(l.a,{theme:g},a.a.createElement(s,null),a.a.createElement(f,null),a.a.createElement(M,null),a.a.createElement(Z,null),a.a.createElement(ne,null),a.a.createElement(se,null),a.a.createElement(we,null),a.a.createElement(ke,null))};i.a.createRoot(document.getElementById("root")).render(a.a.createElement(a.a.StrictMode,null,a.a.createElement($e,null)))}],[[18,1,2]]]);
-//# sourceMappingURL=main.9468f00b.chunk.js.map
+`;var Ce=()=>a.a.createElement(Ee,null,a.a.createElement("p",null,"\xa9 ",(new Date).getFullYear()," Ralphael Oshun. All Rights Reserved."),a.a.createElement(ke,null,G.map(e=>a.a.createElement($e,{key:e.name,href:e.href,target:"_blank","aria-label":e.name},e.icon))));var ze=function(){return a.a.createElement(l.a,{theme:g},a.a.createElement(s,null),a.a.createElement(f,null),a.a.createElement(M,null),a.a.createElement(Q,null),a.a.createElement(oe,null),a.a.createElement(me,null),a.a.createElement(ye,null),a.a.createElement(Ce,null))};i.a.createRoot(document.getElementById("root")).render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(ze,null)))}],[[19,1,2]]]);
+//# sourceMappingURL=main.d2a6d592.chunk.js.map
